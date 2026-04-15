@@ -1,1 +1,1 @@
-# odin-recipes
+okay after compleing thes assignment ill have the skills ot set up a simple website using html and a litle css
